@@ -1,5 +1,9 @@
 # Bing News Search API - CLI
 
+> **⚠️ ARCHIVED**: This repository is archived and no longer maintained. This was a demo project for the Bing News Search API.
+
+> **📝 Blog Post**: Read more at [CLI wizardry - Bing News Search on the fly](https://sealjay.com/bing-news-search-cli/)
+
 This CLI is written in Python to provide an interactive prompt to search for interesting articles that could be used to post to Twitter, or for resarch purposes.
 
 The aim is to demonstrate the use of the Bing News Search API - for more information, [please read the related blog post](https://sealjay.com/bing-news-search-cli/).
